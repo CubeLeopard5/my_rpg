@@ -1,0 +1,7 @@
+1//sprite nbr
+8//x pos
+8//y pos
+1//action type (1 for talk, 2 for fight, 3 for talk and fight)
+0//Direction to move when lost the fight (0 = NULL, 1 = N, 2 = E, 3 = S, 4 = W)
+NULL//talk file
+NULL//level pokemon_file

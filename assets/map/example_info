@@ -1,0 +1,7 @@
+1 //type d'environnement (1 pour la foret par exemple)
+0;2;4;9//tye de case sur lesquelles on peut marcher (walkable), juste à le copier-coller sur les env de mm type
+0;2//type de case sur lesquelles les pokémons peuvent pop
+33;25//Taille x et y de la zone
+10;14// x et y d'arrivé
+10;0;Road_02// Point de tp vers une autre zone (x, y, nom de la zone)
+5;5;Road_03// autre point de tp (on peut en avoir plus ou moins)
